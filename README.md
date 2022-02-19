@@ -1,7 +1,7 @@
 # Hi, I'm Christian 👋
 - Cyber Security Student
 - Former Canada Learning Code Teen Ambassador
-- Proficient 
+- I use daily: Python, Java, HTML, CSS, JavaScript, and Bash
 ## What I am up to
   #### Currently:
   - Finishing my Second Term at Sheridan College
@@ -15,4 +15,3 @@
   #### One day I want to: 
   - Contribute code to a Linux kernel 
   - Create my own home lab
-## Connect with Me
