@@ -1,6 +1,6 @@
 # Hi, I'm Christian 👋
 <!-- display the social media buttons in your README -->
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/christian-josef-ortiz-903114232)
 
 [![alt text][6.1]][6]
 
