@@ -10,7 +10,7 @@
   - Contribute to a GitHub Project
   - Learn the Fundamentals of DevSecOps
   - Learn Docker
-  - Create a Discord Bot to pull NBA game and play stats to a server
+  - Create a Discord Bot to pull NBA game and players stats to a server
   - Complete my personal website, using HTML, CSS, JavaScript and Flask
   #### One day I want to: 
   - Contribute code to a Linux kernel 
