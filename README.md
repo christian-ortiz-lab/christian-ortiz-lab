@@ -4,7 +4,7 @@
 - I use daily: Python, Java, HTML, CSS, JavaScript, and Bash
 ## What I am up to
   #### Currently:
-  - Finishing my Second Term at Sheridan College
+  - Finishing my Third Term at Mohawk College
   - Competing in the ISS Session CTF 2022
   #### In the future, I plan to:
   - Contribute to a GitHub Project
